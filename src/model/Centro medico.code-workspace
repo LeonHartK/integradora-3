@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../Centro medico"
+		},
+		{
+			"path": "../../../Centro medico 2"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src",
+			""
+		]
+	}
+}
